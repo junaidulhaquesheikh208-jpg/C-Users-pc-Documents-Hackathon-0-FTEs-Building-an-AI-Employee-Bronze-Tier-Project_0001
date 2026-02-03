@@ -1,0 +1,68 @@
+
+
+
+
+What is Kubernetes? | Kubernetes Full Beginner Guide + Installation Step by Step
+
+
+
+In this video, we will learn What is Kubernetes (K8s) and why it is one of the most in-demand DevOps tools in the world.
+Kubernetes is a powerful container orchestration platform used to deploy, manage, and scale containerized applications. If you already know Docker, then Kubernetes is the next big step in your DevOps journey.
+🔹 In this tutorial, you will learn:
+✔ What is Kubernetes?
+✔ Why Kubernetes is used
+✔ Kubernetes Architecture (Master & Worker Nodes)
+✔ Pods, Services, Deployments explained
+✔ Step-by-step Kubernetes Installation
+✔ How to run your first app on Kubernetes
+This video is perfect for Beginners, DevOps learners, Cloud students, and Developers who want to start their journey with Kubernetes from scratch.
+🚀 Don’t forget to Like, Share & Subscribe for more DevOps, Docker, and Cloud tutorials!
+
+
+PDF Link ,,,,,,,,,,,,
+
+https://docs.google.com/document/d/1A...
+
+
+Chocolaty  Tool....
+
+https://docs.chocolatey.org/en-us/cho...
+
+kubernetes
+what is kubernetes
+kubernetes tutorial
+kubernetes for beginners
+k8s tutorial
+kubernetes explained
+learn kubernetes
+kubernetes full course
+kubernetes installation
+install kubernetes step by step
+kubernetes in urdu
+kubernetes in hindi
+devops kubernetes
+docker vs kubernetes
+container orchestration
+kubernetes architecture
+kubernetes pods services deployments
+kubernetes basic tutorial
+minikube kubernetes
+kubernetes cluster setup
+
+Kubernetes cluster
+Container orchestration tool
+DevOps tools 2026
+Cloud native applications
+Deploy apps using Kubernetes
+Kubernetes master node
+Worker node in Kubernetes
+Minikube installation
+kubectl commands
+
+
+#Kubernetes #K8s #DevOps #Docker #CloudComputing #Containers #Programming #TechLearning
+
+
+
+
+

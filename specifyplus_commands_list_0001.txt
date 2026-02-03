@@ -1,0 +1,35 @@
+
+
+
+python --version
+
+
+
+  pip install specifyplus
+
+
+
+  pip install -U specifyplus
+
+
+
+  uv tool install specifyplus
+
+
+
+ specifyplus --version
+
+
+  specifyplus -v
+
+
+
+  specifyplus init .
+
+
+
+ specifyplus check
+
+
+
+ pip install -U specifyplus
